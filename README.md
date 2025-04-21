@@ -26,7 +26,8 @@ Machine learning-based approach to estimate reservoir permeability using seismic
 3. ML model training and evaluation using residual analysis, scatter plots, and error distributions.
 
 ## Results
-- **Best performing model:** XGBoost
+- **Best performing model:** Random Forest
+
 - **Evaluation Metrics:** Residuals, Feature Importance, Actual vs Predicted plots
 - **Generalization:** Suitable for other wells with similar lithology
 
