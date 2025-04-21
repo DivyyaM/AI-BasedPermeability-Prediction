@@ -30,8 +30,6 @@ Machine learning-based approach to estimate reservoir permeability using seismic
 - **Evaluation Metrics:** Residuals, Feature Importance, Actual vs Predicted plots
 - **Generalization:** Suitable for other wells with similar lithology
 
-## Resources
-- [Google Drive Link to Model Files](#) 
 
 ## 👤 Author
 **Divya Meena**  
