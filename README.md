@@ -31,7 +31,7 @@ Machine learning-based approach to estimate reservoir permeability using seismic
 - **Generalization:** Suitable for other wells with similar lithology
 
 ## Resources
-- [Google Drive Link to Model Files](#) ← *(add your link here)*
+- [Google Drive Link to Model Files](#) 
 
 ## 👤 Author
 **Divya Meena**  
